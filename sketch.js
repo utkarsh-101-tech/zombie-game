@@ -13,7 +13,7 @@ const GameState = {
     play: 4
 };
 var w = 0;
-var gameState = GameState.load;
+var gameState = GameState.intro;
 var tablet, logo;
 var rotation = 0;
 var play;
